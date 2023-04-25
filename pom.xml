@@ -32,17 +32,17 @@
         <dependency>
             <groupId>com.oracle.database.jdbc</groupId>
             <artifactId>rsi</artifactId>
-            <version>21.9.0.0</version>
+            <version>23.2.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.oracle.database.jdbc</groupId>
             <artifactId>ucp</artifactId>
-            <version>21.9.0.0</version>
+            <version>23.2.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.oracle.database.ha</groupId>
             <artifactId>ons</artifactId>
-            <version>21.9.0.0</version>
+            <version>23.2.0.0</version>
         </dependency>
     </dependencies>
 </project>
